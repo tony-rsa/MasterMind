@@ -1,2 +1,16 @@
-# masterMind_python
-We will implement a simple version of the Mastermind game, and using an iterative programming approach we will enhance it in future problems.  Iteration 1: Create a simple implementation of Mastermind using what you know about data structures, loops and conditional statements.  Iteration 2: Use functions to improve the code.  Iteration 3: Improve the use of functions and return values, as well as applying testing techniques.
+# Problems - Mastermind
+
+* Modify `mastermind.py` to solve the problem as stated in the topic content.
+* You can run the program using the instructions in *To Run* below.
+* You can test technical correctness by running the unit tests as in the section *To Test* below.
+
+### To Run
+
+* `python3 mastermind.py`
+* follow the input prompts to get the desired output
+
+### To Test
+
+* To run all the unittests: `python3 -m unittest tests/test_main.py`
+* To run a specific step's unittest, e.g step *1*: `python3 -m unittest tests.test_main.MyTestCase.test_step1`
+* _Note_: at the minimum, these (*unedited*) tests must succeed before you may submit the solution for review.
